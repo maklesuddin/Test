@@ -1,0 +1,66 @@
+﻿
+@using Models
+@model Models.Course
+
+@{
+    Layout = null;
+   Course course = ViewBag.Course;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Entry</title>
+    <link href="~/Controllers/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+    <form method="post">
+        <div class="form-horizontal">
+            <h1>Course Information</h1>
+            <div class="form-group">
+                @Html.LabelFor(c=>c.OrganizationId)
+                @Html.DropDownListFor(c => c.OrganizationId,Model.SelectListItemsOraganization,"Select", new { @class = "form-control" })
+                 
+            </div>
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Name)
+                @Html.TextBoxFor(c => c.Name, new { @class = "form-control" })
+                   
+            </div>
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Code)
+                @Html.TextBoxFor(c => c.Code, new { @class = "form-control" })
+                   
+            </div>
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Duration)
+                @Html.TextBoxFor(c => c.Duration, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Credit)
+                @Html.TextBoxFor(c => c.Credit, new { @class = "form-control" })
+            </div>
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Outline)
+                @Html.TextAreaFor(c => c.Tags, new { @class = "form-control" })
+                
+            </div>
+            <div class="form-group ">
+                @Html.LabelFor(c=>c.Tags)
+                @Html.TextBoxFor(c => c.Tags, new { @class = "form-control" })
+            </div>
+            <div class="form-group ">
+                <button type="submit" class="btn btn-success">Submit</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+</body>
+</html>

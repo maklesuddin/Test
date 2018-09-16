@@ -1,0 +1,111 @@
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\DataBase.dll.config
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\DataBase.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\DataBase.pdb
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\EntityFramework.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\Models.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\Models.pdb
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\EntityFramework.xml
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.dll
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.pdb
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Isdelete_added.resources
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.foriknadded.resources
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.Razor.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.xml
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.xml
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.Razor.xml
+E:\Practice\September\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Practice\September\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Added_Required_Orgainazion_chance_int_from_long.resources
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\DataBase.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\Models.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.Razor.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\Models.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.Razor.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Isdelete_added.resources
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.foriknadded.resources
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Added_Required_Orgainazion_chance_int_from_long.resources
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.dll
+C:\Users\Nafiew\Desktop\OnlinePro\DataBase\obj\Debug\DataBase.pdb
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\DataBase.dll.config
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\DataBase.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\DataBase.pdb
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\EntityFramework.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\Models.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.Razor.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\Models.pdb
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\EntityFramework.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.Razor.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Isdelete_added.resources
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.foriknadded.resources
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Added_Required_Orgainazion_chance_int_from_long.resources
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.dll
+E:\Practice\September\Edited Project\OnlinePro\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\DataBase.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\Models.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Isdelete_added.resources
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.foriknadded.resources
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.Migrations.Added_Required_Orgainazion_chance_int_from_long.resources
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\DataBase\obj\Debug\DataBase.pdb

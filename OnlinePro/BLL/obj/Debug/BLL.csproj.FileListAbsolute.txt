@@ -1,0 +1,105 @@
+E:\Practice\September\OnlinePro\BLL\bin\Debug\BLL.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\BLL.pdb
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DAL.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\Models.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DataBase.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\EntityFramework.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DAL.pdb
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DAL.dll.config
+E:\Practice\September\OnlinePro\BLL\bin\Debug\Models.pdb
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DataBase.pdb
+E:\Practice\September\OnlinePro\BLL\bin\Debug\DataBase.dll.config
+E:\Practice\September\OnlinePro\BLL\bin\Debug\EntityFramework.xml
+E:\Practice\September\OnlinePro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Practice\September\OnlinePro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Practice\September\OnlinePro\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Practice\September\OnlinePro\BLL\obj\Debug\BLL.dll
+E:\Practice\September\OnlinePro\BLL\obj\Debug\BLL.pdb
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.Mvc.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.Razor.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.Mvc.xml
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.xml
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.Razor.xml
+E:\Practice\September\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\BLL.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\BLL.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DAL.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\Models.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DataBase.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DAL.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DAL.dll.config
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\Models.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DataBase.pdb
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\DataBase.dll.config
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\obj\Debug\BLL.dll
+C:\Users\Nafiew\Desktop\OnlinePro\BLL\obj\Debug\BLL.pdb
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\BLL.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\BLL.pdb
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DAL.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\Models.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DataBase.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\EntityFramework.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.Mvc.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.Razor.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DAL.pdb
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DAL.dll.config
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\Models.pdb
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DataBase.pdb
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\DataBase.dll.config
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\EntityFramework.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.Mvc.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.Razor.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Practice\September\Edited Project\OnlinePro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Practice\September\Edited Project\OnlinePro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Practice\September\Edited Project\OnlinePro\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Practice\September\Edited Project\OnlinePro\BLL\obj\Debug\BLL.dll
+E:\Practice\September\Edited Project\OnlinePro\BLL\obj\Debug\BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\BLL.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\DAL.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\Models.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\DataBase.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\DAL.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\DataBase.pdb
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\obj\Debug\BLL.dll
+C:\Users\Web App Develop .Net\Desktop\MaklesOnline Pro\OnlinePro\BLL\obj\Debug\BLL.pdb

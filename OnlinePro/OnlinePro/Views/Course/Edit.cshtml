@@ -1,0 +1,80 @@
+﻿
+@using Models
+@model Models.Course
+
+@{
+    Layout = null;
+    //Course course = ViewBag.Course;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+    <link href="~/Controllers/Content/bootstrap.min.css" rel="stylesheet" />
+   // <link href="~/Scripts/CourseOutline/editor.css" rel="stylesheet" />
+   
+</head>
+<body>
+<div>
+    <h1>Course Information</h1>
+    @if(ViewBag.msc=="Success")
+    {
+        <h1 style="color:green">@(ViewBag.msc)</h1>
+    }
+    else if(ViewBag.msc=="Fialed")
+    {
+        <h1 style="color: red">@(ViewBag.msc)</h1>
+    }
+
+
+    <div class="container">
+        <form method="post">
+            <div class="form-horizontal">
+                <h1>Course Information</h1>
+                <div class="form-group">
+                    @Html.LabelFor(c=>c .Organization)
+                    @Html.DropDownListFor(c => c.OrganizationId, Model.SelectListItemsOraganization,"Select", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(c => c.OrganizationId)
+                </div>
+                <div class="form-group ">
+                    @Html.LabelFor(c=>c.Name)
+                    @Html.TextBoxFor(c => c.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(c => c.Name)
+                </div>
+                <div class="form-group ">
+                    @Html.LabelFor(c=>c.Code)
+                    @Html.TextBoxFor(c => c.Code, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(c => c.Code)
+                </div>
+                <div class="form-group ">
+                    @Html.LabelFor(c=>c.Duration)
+                    @Html.TextBoxFor(c => c.Duration, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group ">
+                    @Html.LabelFor(c=>c.Credit)
+                    @Html.TextBoxFor(c => c.Credit, new { @class = "form-control" })
+                </div>
+                <div class="form-group ">
+                    @Html.LabelFor(c => c.Outline)
+                    @Html.TextAreaFor(c => c.Outline, new { @class = "form-control" })
+                </div>
+                <div class="form-group ">
+                    @Html.LabelFor(c=>c.Tags)
+                    @Html.TextBoxFor(c => c.Tags, new { @class = "form-control" })
+
+                </div>
+                <div class="form-group ">
+                    <button type="submit" class="btn btn-success">Update</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+</body>
+</html>

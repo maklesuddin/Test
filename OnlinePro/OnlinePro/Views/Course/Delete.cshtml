@@ -1,0 +1,26 @@
+﻿@model Models.Course
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div>
+        <h1>Course Delete </h1>
+        @if (ViewBag.msc == "Success")
+        {
+            <h1 style="color:green">@(ViewBag.msc)</h1>
+        }
+        else if (ViewBag.msc == "Fialed")
+        {
+            <h1 style="color: red">@(ViewBag.msc)</h1>
+        }
+    </div>
+</body>
+</html>

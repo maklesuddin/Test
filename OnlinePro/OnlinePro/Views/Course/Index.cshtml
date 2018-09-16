@@ -1,0 +1,67 @@
+﻿@model Models.CourseSearchCriteria
+
+@{
+  Layout = null;
+  
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <title>Index</title>
+  <link href="~/Controllers/Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+  <div class="container">
+    <h2>CourseAll Information</h2>
+    @using (Html.BeginForm("Index","Course",FormMethod.Get))
+    {
+      <div class=" row">
+        <input id="searchTextbox" name="Name" class="form-group" type="text" />
+        <input id="searchButton" type="submit" value="Search" class="btn-success" />
+      </div>
+    }
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Organization</th>
+          <th>Name</th>
+          <th>Code</th>
+          <th>Duration</th>
+          <th>Credit</th>
+          <th>Outline</th>
+          <th>Tags</th>
+          <th class="btn btn-danger btn-block">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var itemCourse in Model.Courses)
+        {
+          <tr>
+            <td>@itemCourse.Id</td>
+            <td>@itemCourse.OrganizationId</td>
+            <td>@itemCourse.Name</td>
+            <td>@itemCourse.Code</td>
+            <td>@itemCourse.Duration</td>
+            <td>@itemCourse.Credit</td>
+            <td>@itemCourse.Outline</td>
+            <td>@itemCourse.Tags</td>
+
+            <td>
+              @Html.ActionLink("Edit", "Edit", new { id = itemCourse.Id }) |
+              @Html.ActionLink("Details", "Index", new { id = itemCourse.Id })|
+              @Html.ActionLink("Delete", "Delete", new { id = itemCourse.Id })
+
+            </td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
